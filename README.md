@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack**
 
-Olá! Me chamo **Rodrigo De Le Martins**, tenho 17 anos e sou natural de **São Paulo**. Atualmente, estou cursando o **3º ano do Ensino Médio** na escola **Carlos Alberto de Siqueira**, com formação técnica em **Informática**.
+Olá! Me chamo **Rodrigo De Le Martins**, tenho 18 anos e sou natural de **São Paulo**. Atualmente, estou cursando o **3º ano do Ensino Médio** na escola **Carlos Alberto de Siqueira**, com formação técnica em **Informática**.
 
 Também estou participando do **Curso de Programação** oferecido pelo **Senai**, em parceria com a prefeitura de **Santana de Parnaíba**.
 
